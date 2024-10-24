@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full stack web developer currently working on Progressive Web Apps. <br>I have a deep interest in working on projects which include simulating physics environments<br>I am trying to learn something new everyday. 
+I code stuff
 
 
 ## 🌐 Socials:
